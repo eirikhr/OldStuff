@@ -2,7 +2,7 @@
 
 !rules												//IRC and forum rules
 !irc												//IRC Guide
-!status											//Bot of Legends Website/Studio/IRC status (Online/offline)
+!status										  	//Bot of Legends Website/Studio/IRC status (Online/offline)
 !bol												//Link to Bot of Legends forum
 !vip												//Info and link to purchasing VIP
 !ftd												//Link for "Failed to Download" solution
@@ -11,8 +11,8 @@
 !prodiction											//Info on the Prodiction script
 !activator											//Info on the activator script
 !evadeee											//info on Evadeee (Script by Weee)
-!honda7											//Info on Honda7's scripts/libs
-!reborn											//Info on Sida's Auto Carry Script
+!honda7									  		//Info on Honda7's scripts/libs
+!reborn									  		//Info on Sida's Auto Carry Script
 !ivade												//Link to the iVade forum thread
 !mma												//Info on Marksman's Mighty Assistant
 !orbwalking											//Info on what OrbWalking is
