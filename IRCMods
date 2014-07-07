@@ -1,0 +1,25 @@
+IRC Moderator Usage of Bot Commands
+
+BANS should be handled by BotOfLegends (Angela).
+Chanserv (L33T) doesn't handle temporary bans well. Angela has a memory system.
+
+Muting channel:
+
+say: "!mute"
+or
+say: "!unmute"
+
+BAN SYSTEM:
+
+type !ban <nickname> <duration> <reason>
+
+examples:
+
+!ban Angela 1 Abuse
+  -- Will ban Angela for 1 minute
+!ban Angela 3h Abuse
+  -- Will ban Angela for 3 hours
+!ban Angela 3d Abuse
+  -- Will ban Angela for 3 days
+!ban Angela 2w Abuse
+  -- Will ban Angela for 2 weeks
