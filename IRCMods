@@ -19,7 +19,9 @@ examples:
   -- Will ban Angela for 1 minute
 !ban Angela 3h Abuse
   -- Will ban Angela for 3 hours
-!ban Angela 3d Abuse
+!ban Angela 72h Abuse
   -- Will ban Angela for 3 days
 !ban Angela 2w Abuse
   -- Will ban Angela for 2 weeks
+!ban Angela 0 Abuse
+  -- Will ban Angela for ever.
